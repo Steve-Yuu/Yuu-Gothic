@@ -7,13 +7,14 @@
 * 由於喃字部分從其他字體遷移，因此本字體尚未完工，致使字體不統一
 * 本字體可能有一些不足，將會在後續版本逐步修復
 # 特色
-* 支援舊字形以及港標風格
+
 ![示例5.png](https://github.com/Steve-Yuu/YShi-Gothic-Project-Old/blob/main/%E6%A0%B7%E5%BC%A0/%E7%A4%BA%E4%BE%8B5.PNG）
 
+* 支持舊字形顯示
 * PART2支持麻將符號等顯示（部分符號借鑒於其他基於思源黑體開發的開源字體以及其他开源非黑体字体）、兼容区全部汉字、兼容扩展全部汉字
+如圖所示
 
 ![示例6.png](https://github.com/Steve-Yuu/YShi-Gothic-Project-Old/blob/main/%E6%A0%B7%E5%BC%A0/%E7%A4%BA%E4%BE%8B6.PNG）
-
 ![示例1.png](https://github.com/Steve-Yuu/YShi-Gothic-Project-Old/blob/main/%E6%A0%B7%E5%BC%A0/%E7%A4%BA%E4%BE%8B1.PNG)
 
 * 修正了思源黑體2.0版本不符合陸標的個別漢字
