@@ -1,4 +1,5 @@
 # YShi-Gothic系列字體
+![示例2.png](https://github.com/Steve-Yuu/YShi-Gothic-Project-Old/blob/main/%E6%A0%B7%E5%BC%A0/%E7%A4%BA%E4%BE%8B2.PNG)
 主打完美支持舊字形顯示，不僅支持基本庫和擴展A全部字符，另外還支持越南喃字、香港增補字符集顯示，基於開源字體思源黑體以及衍生字體（如：[源樣黑體](https://github.com/ButTaiwan/genyog-font)）創作
 # 说明
 * 本字体由于字库巨大，因此分为多部分进行展示
