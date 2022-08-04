@@ -16,7 +16,7 @@
 如圖所示
 
 ![示例6.png](https://github.com/Steve-Yuu/YShi-Gothic-Project-Old/blob/main/%E6%A0%B7%E5%BC%A0/%E7%A4%BA%E4%BE%8B6.PNG)
-![示例1.png](https://github.com/Steve-Yuu/YShi-Gothic-Project-Old/blob/main/%E6%A0%B7%E5%BC%A0/%E7%A4%BA%E4%BE%8B1.PNG)
+
 
 * 修正了思源黑體2.0版本不符合陸標的個別漢字
 * A版在原本的思源黑體——傳統的基礎上添加了乀形捺畫，如交、史、更等字（這種寫法多見於宋體），B版（未制作）保留原版捺画风格，后续版本将会一一修正
