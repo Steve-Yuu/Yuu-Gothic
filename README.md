@@ -1,4 +1,4 @@
-鄭重提醒：該倉庫永久擱置，後續可能會開新倉庫重啓本工程，但肯定會做减法。本項目目前只能照顧基本庫，超大字庫版本或會遥遥無期。
+鄭重提醒：該倉庫永久擱置，後續可能會開新倉庫重啓本工程，但肯定會做减法。本項目目前只能照顧基本庫，超大字庫版本或會遥遥無期。若需要本字體的修改版，請查找“[朱古力黑體](https://github.com/MoonlitOwen/ChocolateSans)”
 # Yuu-Gothic系列字體简介
 * 本字體基於開源字體思源黑體以及衍生字體（如：[源樣黑體](https://github.com/ButTaiwan/genyog-font)、[秋空黑體](https://github.com/ChiuMing-Neko/ChiuKongGothic)、间隙黑体、昭源黑体、[遍黑體](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)）創作
 ![一](https://github.com/Steve-Yuu/Yuu-Gothic/blob/main/%E4%B8%80.jpg)
