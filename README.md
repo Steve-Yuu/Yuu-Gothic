@@ -1,9 +1,10 @@
+鄭重提醒：本字體工程，本人或會停止更新、着手，會移交給他人着手、修正，若該工程重啓，可能遥遥無期，或以其他形式重啓，敬請諒解。外字版本或將永久停更。（悲）
 # Yuu-Gothic系列字體简介
 * 本字體基於開源字體思源黑體以及衍生字體（如：[源樣黑體](https://github.com/ButTaiwan/genyog-font)、[秋空黑體](https://github.com/ChiuMing-Neko/ChiuKongGothic)、间隙黑体、昭源黑体、[遍黑體](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)）創作
 ![一](https://github.com/Steve-Yuu/Yuu-Gothic/blob/main/%E4%B8%80.jpg)
 # 説明
 * 本字体由于字库巨大，因此分为多部分进行展示
-* 由於喃字部分工程量浩大，因此本字體不能完美显示喃字，后续会修正
+* 由於喃字部分工程量浩大，因此本字體只能顯示少許喃字，YShi書體也是如此
 * 由於先前造字技术不是很好，本字體可能有一些部件粗糙，將會在後續版本逐步修復
 * 旧字形版基于思源1.004修改，而新字形版基于思源2修改
 ![四](https://github.com/Steve-Yuu/Yuu-Gothic/blob/main/%E5%9B%9B.jpg)
